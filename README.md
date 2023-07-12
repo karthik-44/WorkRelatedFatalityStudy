@@ -8,8 +8,8 @@ On a high level, the following are the steps performed:
 - Read the raw data from the .csv file provided.
 - Clean the data as per our analysis requirement.
 - Create a clean dataset which is ready for our analysis.
-- Install and configure MySQL Database server.
-- Create the database(schema), user and import the cleaned dataset as a table.
-- Perform the analysis.
+- Install and configure MySQL Database server.(Optional)
+- Create the database(schema), user and import the cleaned dataset as a table.(Optional)
+- Perform the analysis. (Done in two methods - using pandas dataframes, SQL queries)
 
 
