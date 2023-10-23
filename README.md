@@ -30,7 +30,6 @@ There are **14914** reported incidents.
 The task is to calculates the year-to-year percentage changes(Round it of to nearest whole number) in the number of fatalities for each incident year, excluding the year 2022.
 
 
-incident_year	n_fatalities	previous_year	year_to_year
 
 | incident_year | n_fatalities | previous_year | year_to_year |
 |--------------|-------------|---------------|--------------|
@@ -94,61 +93,65 @@ The task is to calculates the last 5 fatalities during welding.
 The task is to calculates the top 5 states which have most fatal incidents.
 
 
-|state|	n_fatalities|
-|----|----|
-|texas|	1758|
-|california|	1352|
-|florida|	1021|
-|new york|	726|
-|illinois|	635|
+|    state   | n_fatalities |
+|------------|--------------|
+|    texas   |     1758     |
+| california |     1352     |
+|   florida  |     1021     |
+|  new york  |     726      |
+|  illinois  |     635      |
+
 
 ### Task 8. What are the top 5 states that had the most workplace fatalities from stabbings?
 The task is to calculates the top 5 states which have most fatal incidents happed from stabbing.
 
 
-|state|	stabbing_fatalities|
-|----|----|
-|new york|	7|
-|california|	5|
-|kentucky|	5|
-|illinois|	3|
-|connecticut|	2|
+|     state     | stabbing_fatalities |
+|--------------|----------------------|
+|   new york   |          7           |
+|  california  |          5           |
+|   kentucky   |          5           |
+|   illinois   |          3           |
+| connecticut  |          2           |
+
 
 ### Task 9. What are the top 10 states that had the most workplace fatalities from shootings?
 The task is to calculates the top 10 states which have most fatal incidents happed from shooting.
 
 
-|state	|shooting_fatalities|
-|----|----|
-|indiana|	28|
-|california|	23|
-|texas|	21|
-|new york|	20|
-|florida|	14|
-|kentucky|	13|
-|nevada|	9|
-|illinois|	9|
-|oregon|	9|
-|washington|	8|
+|    state     | shooting_fatalities |
+|-------------|----------------------|
+|   indiana   |         28           |
+|  california  |         23           |
+|    texas    |         21           |
+|   new york  |         20           |
+|   florida   |         14           |
+|   kentucky  |         13           |
+|    nevada   |          9           |
+|   illinois  |          9           |
+|    oregon   |          9           |
+|  washington  |          8           |
+
 
 ### Task 10. What is the total number of shooting deaths per year?
 The task is to calculates the total number of deaths caused by shooting each year.(In Decreasing order)
 
-|incident_year|	shooting_fatalities|
-|----|----|
-|2021|	38|
-|2015|	28|
-|2016|	28|
-|2020|	27|
-|2019|	24|
-|2018|	21|
-|2013|	19|
-|2014|	18|
-|2010|	16|
-|2017|	14|
-|2011|	13|
-|2009|	10|
-|2012|	9|
-|2022|	2|
+| incident_year | shooting_fatalities |
+|--------------|----------------------|
+|     2021     |          38          |
+|     2015     |          28          |
+|     2016     |          28          |
+|     2020     |          27          |
+|     2019     |          24          |
+|     2018     |          21          |
+|     2013     |          19          |
+|     2014     |          18          |
+|     2010     |          16          |
+|     2017     |          14          |
+|     2011     |          13          |
+|     2009     |          10          |
+|     2012     |           9          |
+|     2022     |           2          |
+
 
 
