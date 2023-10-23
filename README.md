@@ -27,7 +27,7 @@ On a high level, the following are the steps performed:
 There are **14914** reported incidents.  
 
 ### Task 2. What is the year to year change for the number of fatal incidents?
-The task is to calculates the year-to-year percentage changes(Round it of to nearest whole number) in the number of fatalities for each incident year, excluding the year 2022.
+The task is to calculate the year-to-year percentage changes(Round it of to nearest whole number) in the number of fatalities for each incident year, excluding the year 2022.
 
 
 
@@ -49,7 +49,7 @@ The task is to calculates the year-to-year percentage changes(Round it of to nea
 
 
 ### Task 3. What is the number of fatalities that received a citation?
-The task is to calculates the total number of fatalities that received a citation.
+The task is to calculate the total number of fatalities that received a citation.
 
 | citation  | n_fatalities |
 |----------|-------------|
@@ -59,7 +59,7 @@ The task is to calculates the total number of fatalities that received a citatio
 
 
 ### Task 4. What day of the week has the most fatalities and what is the overall percentage?
-The task is to calculates day of the week that reported more number of fatalities and percentage(Rounds the percentage to two decimal places).
+The task is to calculate day of the week that reported more number of fatalities and percentage(Rounds the percentage to two decimal places).
 
 | day_of_week | n_fatalities | percentage |
 |-------------|--------------|------------|
@@ -73,13 +73,13 @@ The task is to calculates day of the week that reported more number of fatalitie
 
 
 ### Task 5. What is the number of fatalities involving welding?
-The task is to calculates the total number of fatalities during welding.
+The task is to calculate the total number of fatalities during welding.
 
 There are **79** fatalities involving welding.
 
 
 ### Task 6. Select the last 5 from the previous query
-The task is to calculates the last 5 fatalities during welding.
+The task is to calculate the last 5 fatalities during welding.
 
 |   id   | incident_date | day_of_week |    city    |  state  |               description               |  plan  | citation | incident_year |
 |-------|--------------|------------|------------|---------|----------------------------------------|-------|----------|---------------|
@@ -90,7 +90,7 @@ The task is to calculates the last 5 fatalities during welding.
 | 11743 |  2019-07-08  |   monday   | kingwood   |  texas  | Worker electrocuted while welding air conditioning... | federal |   no    |      2019     |
 
 ### Task 7. Select the top 5 states with the most fatal incidents.
-The task is to calculates the top 5 states which have most fatal incidents.
+The task is to calculate the top 5 states which have most fatal incidents.
 
 
 |    state   | n_fatalities |
@@ -103,7 +103,7 @@ The task is to calculates the top 5 states which have most fatal incidents.
 
 
 ### Task 8. What are the top 5 states that had the most workplace fatalities from stabbings?
-The task is to calculates the top 5 states which have most fatal incidents happed from stabbing.
+The task is to calculate the top 5 states which have most fatal incidents happed from stabbing.
 
 
 |     state     | stabbing_fatalities |
@@ -116,7 +116,7 @@ The task is to calculates the top 5 states which have most fatal incidents happe
 
 
 ### Task 9. What are the top 10 states that had the most workplace fatalities from shootings?
-The task is to calculates the top 10 states which have most fatal incidents happed from shooting.
+The task is to calculate the top 10 states which have most fatal incidents happed from shooting.
 
 
 |    state     | shooting_fatalities |
@@ -134,7 +134,7 @@ The task is to calculates the top 10 states which have most fatal incidents happ
 
 
 ### Task 10. What is the total number of shooting deaths per year?
-The task is to calculates the total number of deaths caused by shooting each year.(In Decreasing order)
+The task is to calculate the total number of deaths caused by shooting each year.(In Decreasing order)
 
 | incident_year | shooting_fatalities |
 |--------------|----------------------|
